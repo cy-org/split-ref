@@ -16,8 +16,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "enable_filemap_share": false,
-      "filemap_share_depots": ["test.split-conceptual"]
+      "enable_filemap_share": true
     }
   ],
   "notification_subscribers": [],
